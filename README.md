@@ -73,7 +73,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 
 ## Projects
--Final Master Degree Pojects
+
+- Final Master Degree Pojects
 - SOC Automation Project (Home Lab)  
 - Security Automation with SOAR EDR
 - Active Directory Projec
