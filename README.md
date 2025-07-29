@@ -14,8 +14,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Master Degree Pojects                         | <a href="https://github.com/Johnny-corona-Bolivar/Master-s-Degree-Project/tree/main">1-Smartphones Securtiy Project | 
-|                                               | <a href="https://google.com">2-Cyber Intelligence Project | 
+| Master Degree Projects                         | <a href="https://github.com/Johnny-corona-Bolivar/Master-s-Degree-Project/tree/main">Master Degree Projects |                                              
 | SOC Automation Project (Home Lab)             | <a href="https://google.com">SOC Automation Lab</a>|
 | 30-Days Soc Analyst Challange (Home Project)  | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with SOAR EDR             |  <a href="https://google.com">SOAR Automation Lab|
