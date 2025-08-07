@@ -14,13 +14,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Master Degree Projects                         | <a href="https://github.com/Johnny-corona-Bolivar/Master-s-Degree-Project/tree/main">Master Degree Projects |                                              
-| SOC Automation Project (Home Lab)             | <a href="https://google.com">SOC Automation Lab</a>|
-| 30-Days Soc Analyst Challange (Home Project)  | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with SOAR EDR             |  <a href="https://google.com">SOAR Automation Lab|
-| Active Directory Project                      |  <a href="https://google.com">Active Directory Project Lab|
+| Master Degree Projects                        | <a href="https://github.com/Johnny-corona-Bolivar/Master-s-Degree-Project/tree/main">Master Degree Projects |                                              
+| SOC Analyst Project with ELK (Home Project)   | <a href="https://google.com">SOC Analyst Project with ELK </a>|
+<!--
+| SOC Automation Project (Home Lab)              # <a href="https://google.com">Detection Lab</a>|
+| Security Automation with SOAR EDR               <a href="https://google.com">SOAR Automation Lab|
+| Active Directory Project                        <a href="https://google.com">Active Directory Project Lab| -->
 
-
+  
 
 ## Tools
 
