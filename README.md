@@ -15,7 +15,7 @@ My curiosity in Information Technology (IT) has led me to develop a passion for 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Master Degree Projects                        | <a href="https://github.com/Johnny-corona-Bolivar/Master-s-Degree-Project/tree/main">Master Degree Projects |                                              
-| SOC Analyst Project with ELK (Home Project)   | <a href="https://google.com">SOC Analyst Project with ELK </a>|  en proceso
+| SOC Analyst Project with ELK (Home Project)   | <a href="https://google.com">SOC Analyst Project with ELK </a> **en proceso**| 
 
 <!--
 | SOC Automation Project (Home Lab)              # <a href="https://google.com">Detection Lab</a>|
